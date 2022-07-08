@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Kulajda",
+    "desc": "Na kulajdě je zajímavé to, že ji nikdo nemá rád",
+    "category": "a63583f1-917c-4bb1-bcbd-c2e6a71c6ae1",
+    "prep": "Postup",
+    "preptime": "84",
+    "person_no": "4",
+    "imageExt": "png",
+    "ingredients": [
+      {
+        "name": "sur1",
+        "amount": "3",
+        "units": "0"
+      }
+    ],
+    "id": "03df9878-e62a-46c6-9b66-5c00c8c7576b"
+  },
+  {
+    "name": "Kančí",
+    "desc": "Popis",
+    "category": "8c8cb532-8d88-4d91-a6e9-27426682c71b",
+    "prep": "Postup",
+    "preptime": "50",
+    "person_no": "2",
+    "imageExt": "png",
+    "ingredients": [
+      {
+        "name": "Surovina 1",
+        "amount": "50",
+        "units": "0"
+      },
+      {
+        "name": "Surovina 2",
+        "amount": "5",
+        "units": "6"
+      }
+    ],
+    "id": "bcbad8ee-2b20-40ab-9909-7fbd528d8028"
+  },
+  {
+    "name": "Hovězí na víně",
+    "desc": "popis",
+    "category": "789b932c-46a1-4024-bccb-22ced3b9c023",
+    "prep": "Postup",
+    "preptime": "45",
+    "person_no": "4",
+    "imageExt": "png",
+    "ingredients": [
+      {
+        "name": "Surovina 1",
+        "amount": "4",
+        "units": "0"
+      }
+    ],
+    "id": "c4d3ad0c-b4c6-4b4b-9365-c797af680f04"
+  }
+]

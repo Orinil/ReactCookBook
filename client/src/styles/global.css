@@ -1,0 +1,11 @@
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.form-error {
+    color: red;
+    height: 16px;
+}
+

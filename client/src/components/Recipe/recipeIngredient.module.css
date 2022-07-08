@@ -1,0 +1,19 @@
+.ingredient-group {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    position: relative;
+}
+
+.ingredient_name {
+    flex-grow: 1;
+    width: 200px;
+}
+
+.ingredient_amount {
+    width: 120px;
+}
+
+.ingredient_unit {
+    width: 100px;
+}

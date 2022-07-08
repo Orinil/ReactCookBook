@@ -1,0 +1,20 @@
+.filter-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    background-color: var(--bs-light);
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
+.category {
+    max-width: 200px;
+}
+
+.name {
+    display: flex;
+}

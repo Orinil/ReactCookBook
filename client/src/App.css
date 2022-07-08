@@ -1,0 +1,50 @@
+.page {
+  max-height: 100vh;
+}
+
+.content {
+  min-height: 100vh;
+  padding-bottom: 100px;
+  overflow: hidden;
+  background-color: lightgray;
+  padding: 20px;
+}
+
+.header-picture {
+  width: 100%;
+}
+
+.layout {
+  padding: 4px 8px;
+  background-color: lightblue;
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+.container-recipe {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 50px;
+}
+
+.container-recipe img {
+  width: 40%;
+}
+
+.time-container {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  max-width: 240px;
+}
+
+.block {
+  display: block;
+}
+
+.nav-padding {
+  padding: 0 20px;
+}

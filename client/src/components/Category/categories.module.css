@@ -1,0 +1,26 @@
+.add-btn {
+    margin-bottom: 1rem;
+}
+
+.card {
+    margin-bottom: 0.7rem;
+}
+
+.body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    margin-bottom: 0;
+}
+
+.edit-btn {
+    margin-right: 1rem;
+    color: white;
+}
+
+.edit-btn:focus, .edit-btn:hover {
+    color: white;
+}

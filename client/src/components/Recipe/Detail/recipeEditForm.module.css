@@ -1,0 +1,9 @@
+.submit-btn {
+    width: 100%;
+}
+
+.form-error {
+    width: 100%;
+    text-align: center;
+    color: orangered;
+}
