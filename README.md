@@ -1,4 +1,4 @@
-# UnicornMswaTeamProject
+# ReactCookBook
 
 This application serves as the final project for one of the subjects at Unicorn College in Prague. 
 
