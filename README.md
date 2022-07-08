@@ -1,9 +1,10 @@
 # ReactCookBook
 
-This application serves as the final project for one of the subjects at Unicorn College in Prague. 
+This application was a team project for Unicorn University in Prague. 
 
-Application contains both Fronted and Backend part.
+Its purpose is to present/design a React web cook-book application (focusing on meat recipes).
 
+It is possible to add/edit/delete recipes and categories. Each recipe has its own photo and ingredients can be recalculated based on how many people will eat.
 # FRONTEND
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
